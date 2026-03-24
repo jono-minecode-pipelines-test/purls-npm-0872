@@ -1,0 +1,39 @@
+{
+    "name": "005-gxp",
+    "version": "1.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "005-gxp@1.0.2",
+    "_npmVersion": "5.0.0",
+    "_nodeVersion": "8.0.0",
+    "_npmUser": {
+        "name": "guobear",
+        "email": "491022279@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-TFAGoHFTqpmWhuOn0k2TgDzAAL43sk+/1PeRvlrh7Y55QtLdP1RRF6ERwRs98PYNxk71bsB/zc2hiyvdBKsofw==",
+        "shasum": "3e43a7f5363a5a45a0b76f259efcb46b769976e5",
+        "tarball": "https://registry.npmjs.org/005-gxp/-/005-gxp-1.0.2.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDZC2yg8nSAfKlD2FsO/WCZBtCNjGa48TZX+Ighx8el8AiEAtlOjeGnfMcIgJV1/NKplb4s8F20C3fks5CM0zOxpzKs="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "guobear",
+            "email": "491022279@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/005-gxp-1.0.2.tgz_1501061348064_0.04175921622663736"
+    }
+}

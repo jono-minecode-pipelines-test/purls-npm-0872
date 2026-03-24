@@ -1,0 +1,56 @@
+{
+    "name": "0002039atm",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "0002039atm": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "\"Mudabbrali\""
+    },
+    "license": "ISC",
+    "keywords": [],
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.12.11"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.20"
+    },
+    "_id": "0002039atm@1.0.1",
+    "_nodeVersion": "20.13.1",
+    "_npmVersion": "10.5.2",
+    "dist": {
+        "integrity": "sha512-81Dxkf16oU+wYUeyxm7mUl0Xk10kqrDPHrBiBSHgB1ElfzBnj2031ef3jqjwGMc4nTD4orF1fUc7BZ7CEBpfdQ==",
+        "shasum": "034c7064c3d1b9a52aa83414693b19e94aa370ef",
+        "tarball": "https://registry.npmjs.org/0002039atm/-/0002039atm-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14752,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCH7TTbTvAfDfkl75QQeg0DSxRU2LskAr6sDfFu1i0wNgIhAJ77Cz1HvgzBJ63FX+NCUL1VDZoLcr5NCl5hMMOxPZYX"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mudabirali",
+        "email": "angryterence21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mudabirali",
+            "email": "angryterence21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0002039atm_1.0.1_1715608525642_0.048814560764227855"
+    },
+    "_hasShrinkwrap": false
+}

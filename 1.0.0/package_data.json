@@ -1,0 +1,53 @@
+{
+    "name": "001-student-management-system",
+    "version": "1.0.0",
+    "main": "sms.js",
+    "type": "module",
+    "bin": {
+        "001-student-management-system": "sms.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.20"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "001-student-management-system@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-d5JdzbSQpw7RtRJ5ymvTv+NG9e0FqsL+j4mDey89Ypx8zUlwz8tp2V41wqTr0zAjnU60emnIldJq/ghd9DUUlg==",
+        "shasum": "363e85e1b522e551ab48f2f8642a4220648f48fe",
+        "tarball": "https://registry.npmjs.org/001-student-management-system/-/001-student-management-system-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 17720,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDtxRO1jMJUO9mf64b9vqICcGXDn4LAHHEvjyx5jzqxWAIgcx9UBCloCBTO7+6wQNIo6KtOT6BPaBCb8BjF5LdlFU8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "dr-minahil-hamza",
+        "email": "dr.minahil16@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "dr-minahil-hamza",
+            "email": "dr.minahil16@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/001-student-management-system_1.0.0_1714460298280_0.24636969344484383"
+    },
+    "_hasShrinkwrap": false
+}
